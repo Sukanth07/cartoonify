@@ -4,5 +4,5 @@
    - pip install opencv-python
    - pip insatll numpy
    - pip install scipy
-- Then run carttonize.py for cartoonify the image. You can change the input image in the last second line
-- You can run vid.py for live cartoonify the video.
+- Then run carttonify.py for cartoonify the image. You can change the input image in the last second line
+- You can run video.py for live cartoonify the video.
