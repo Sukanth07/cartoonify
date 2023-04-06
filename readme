@@ -5,4 +5,4 @@
    - pip insatll numpy
    - pip install scipy
 - Then run carttonify.py for cartoonify the image. You can change the input image in the last second line
-- You can run video.py for live cartoonify the video.
+- You can run video_cartoonize.py for live cartoonify the video.
